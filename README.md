@@ -30,4 +30,9 @@ In addition to my web development skills, I possess a basic understanding of pro
 
 Recently, I gained admission to Guru Nanak Dev Engineering College in the B.Tech IT branch, which further supports my pursuit of a career in technology. My passion for technology and commitment to learning drive me to excel in my studies and future endeavors.
 
+## LinkedIn Profile
+
+[View LinkedIn Profile](https://www.linkedin.com/in/ishmeet-singh-chadha-b56486300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
 

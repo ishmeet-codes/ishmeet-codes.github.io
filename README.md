@@ -20,4 +20,11 @@
 ### Additional Skills:
 - **Basic Photoshop**: Capable of performing essential image editing and graphic design tasks.
 - **Power BI**: Having basic knowledge of data visualization and business analytics.
+## Summary
+I have a solid foundation in computer science and engineering principles, having successfully completed comprehensive coursework and practical projects in HTML. I am now prepared to advance my skills in CSS to create visually appealing web pages.
+
+In addition to my web development skills, I possess a basic understanding of programming languages such as C, with a solid grasp of essential programming concepts and syntax. I also have experience in MySQL for database operations and have basic knowledge of Photoshop for image editing and Power BI for data visualization and business analytics.
+
+Recently, I gained admission to Guru Nanak Dev Engineering College in the B.Tech IT branch, which further supports my pursuit of a career in technology. My passion for technology and commitment to learning drive me to excel in my studies and future endeavors.
+
 

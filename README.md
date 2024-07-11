@@ -20,7 +20,8 @@
 ### Additional Skills:
 - **Basic Photoshop**: Capable of performing essential image editing and graphic design tasks.
 - **Power BI**: Having basic knowledge of data visualization and business analytics.
-### Project of JavaScript: 
+### Project of JavaScript:  [ToDo List (HTML, CSS, JavaScript)](https://github.com/ishmeet-codes/todo_list_HTML.CSS.JAVASCRIPT)
+
 ## Summary
 I have a solid foundation in computer science and engineering principles, having successfully completed comprehensive coursework and practical projects in HTML. I am now prepared to advance my skills in CSS to create visually appealing web pages.
 

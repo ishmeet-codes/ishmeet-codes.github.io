@@ -5,6 +5,8 @@
 - **Education** :- B.Tech in Computer Science and Engineering (CSE)
 - **Location** :- Guru Gian Vihar Jawaddi
 - # **Class 12** details:-
+
+  
 | Subject               | Total Marks | Obtained Marks |
 |-----------------------|-------------|----------------|
 | Maths                 | 100         | 87             |

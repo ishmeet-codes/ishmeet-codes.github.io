@@ -5,13 +5,15 @@
 - **Education** :- B.Tech in Computer Science and Engineering (CSE)
 - **Location** :- Guru Gian Vihar Jawaddi
 - # **Class 12** details:-
-| Subject                | Total Marks | Obtained Marks |
-| Maths                  | 100         | 87             |
-| Artificial Inteligence | 100         | 92             |
-| Physics                | 100         | 80             |
-| Chemistry              | 100         | 69             |
-| Punjabi                | 100         | 97             |
-| English                | 100         | 82             |
+| Subject               | Total Marks | Obtained Marks |
+|-----------------------|-------------|----------------|
+| Maths                 | 100         | 87             |
+| Artificial Intelligence | 100         | 92             |
+| Physics               | 100         | 80             |
+| Chemistry             | 100         | 69             |
+| Punjabi               | 100         | 97             |
+| English               | 100         | 82             |
+
 
 
 

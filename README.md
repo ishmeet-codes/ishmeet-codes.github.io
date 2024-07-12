@@ -1,4 +1,5 @@
 # Profile :- Ishmeet Singh Chadha
+![Image](https://ishmeet-codes.github.io/Dex/pic1.jpg)
 ## Personal Information
 - **Name** :- Ishmeet Singh Chadha
 - **Age** :- 18

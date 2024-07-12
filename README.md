@@ -6,7 +6,7 @@
 - **Location** :- Guru Gian Vihar Jawaddi
 - # **Class 12** details:-
 | Subject                | Total Marks | Obtained Marks |
-|:----------------------:|:-----------:|:--------------:|
+|----------------------|-----------|--------------|
 | Maths                  | 100         | 87             |
 | Artificial Inteligence | 100         | 92             |
 | Physics                | 100         | 80             |

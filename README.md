@@ -51,7 +51,7 @@ Recently, I gained admission to Guru Nanak Dev Engineering College in the B.Tech
 [View LinkedIn Profile](https://www.linkedin.com/in/ishmeet-singh-chadha-b56486300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Blog Posts 
-[View my Blogs](https://github.com/ishmeet-codes/ishmeet-codes.github.io/tree/cf8321b0a2aaf84767af58ae99ddfa5c1bfe12c3/Contribution%20to%20open%20Source)
+[View my Blogs](https://github.com/ishmeet-codes/ishmeet-codes.github.io/tree/main/Contribution%20to%20open%20Source)
 ## Contact Details
 - **Email** :- ishmeetsinghxa@gmail.com
 - **Phone Number** :- 7719450870

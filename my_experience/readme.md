@@ -84,6 +84,8 @@ With each step, I am becoming more confident in my abilities and more enthusiast
 | Learning latest technologies from the start             | Dr. H.S. Rai             |
 | Hands-on learning with tools like Excel and ChatGPT     | Causmic Club Members     |
 | Participation in club activities for enhanced learning experiences | CodeGNE Club |
+| Learning Pandoc and using it by overcoming errors and updates | CodeGNE Club |
+| Leadership Skills like explaining process to others enhanced | CodeGNE Club |
 
 ## Weekly Compilation
 

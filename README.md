@@ -19,8 +19,7 @@
 
 
 
-
-  ### Web Development:
+# Web Development:
 - **HTML**: Completed comprehensive coursework and practical projects.
 - **CSS**: Prepared and eager to delve into styling and layout techniques.
 - **JavaScript**: Experienced in creating dynamic and interactive web content.

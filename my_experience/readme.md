@@ -27,6 +27,39 @@ Later, we had a math session. Initially, recalling all the formulas was challeng
 
 Some of us attended a meeting of the CodeGNE club, a group that had grown to 50 members on Telegram.
 
+# Day 4 at CodeGNE: Embracing Leadership and Overcoming Challenges
+
+## Introduction
+
+Day 4 at CodeGNE has been an exciting and rewarding experience. As a B.Tech student in Information Technologies at Guru Nanak Dev Engineering College, I am always eager to enhance my skills and take on new challenges. Today was particularly special as I continued to grow in my role as a leader and tackled several technical tasks.
+
+## Stepping into Leadership
+
+One of the most significant milestones today was being officially appointed as the first leader of my group. This role is a recognition of my skills and dedication, and it provides a valuable opportunity to develop project management and team leadership skills. Leading a group of talented peers and coordinating with the other five leaders appointed in our team has been a rewarding experience.
+
+## Technical Learnings and Challenges
+
+Today's journey in CodeGNE has been a treasure trove of technical knowledge. Here are some key learnings and challenges I encountered:
+
+1. **Mastering GitHub:** Operating GitHub properly has been a game-changer. From version control to collaborative coding, GitHub has streamlined our workflow and enhanced our productivity.
+   
+2. **Markdown Language:** Learning Markdown has been incredibly useful. It has simplified the process of formatting text, creating documentation, and maintaining readability across various platforms.
+
+3. **Pandoc Installation and Usage:** One of the more challenging yet fulfilling experiences was installing and using Pandoc. Despite facing initial difficulties, I was able to overcome them through perseverance and self-learning.
+
+4. **Helping Others:** Being in a leadership position has taught me the importance of helping others complete their work. This not only fosters a collaborative environment but also enhances my understanding of the concepts as I explain them to others.
+
+## Upscaling Project Management Skills
+
+Leadership is not just about guiding others but also about continuous self-improvement. My role in CodeGNE has allowed me to refine my project management skills. Coordinating tasks, setting deadlines, and ensuring that the team stays on track are essential aspects of effective leadership that I am continually learning and implementing.
+
+## Conclusion
+
+Day 4 at CodeGNE has been transformative. It has provided me with a platform to hone my technical skills, embrace leadership responsibilities, and overcome challenges with determination. I am excited to continue this journey, leveraging my newfound skills to contribute effectively to my team and future projects. 
+
+With each step, I am becoming more confident in my abilities and more enthusiastic about the endless possibilities that lie ahead in the field of computer science and engineering.
+
+
 ## Highlights of GNDEC (GNE)
 
 - A century-old institution with a rich history of academic excellence.

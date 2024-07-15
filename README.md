@@ -3,7 +3,7 @@
 ## Personal Information
 - **Name** :- Ishmeet Singh Chadha
 - **Age** :- 18
-- **Education** :- B.Tech in Computer Science and Engineering (CSE)
+- **Education** :- B.Tech in Information technology  (IT)
 - **Location** :- Guru Gian Vihar Jawaddi
 - # **Class 12** details:-
 

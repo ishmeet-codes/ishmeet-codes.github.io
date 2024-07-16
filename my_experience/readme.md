@@ -12,7 +12,7 @@ Next, the ADGP Officer shared invaluable insights about karma and the delayed re
 Students who interacted and spoke up received chocolates. In the end, I missed out on chocolates but gained countless lessons, some the hard way. I resolved never to miss an opportunity again.
 
 $$
-\displaystyle\sum_{k=2}^4 k^2=2^2 \times 3^2 \times 4^2 = 576
+A = \displaystyle\sum_{k=2}^4 k^2=2^2 \times 3^2 \times 4^2 = 576
 $$
 
 ## Day 2

@@ -93,4 +93,7 @@ Coming soon..
 
 ---
 
+
+$\displaystyle\sum_{k=6}^5 k^2=3^2 + 4^2 + 5^2 =50$
+
 My first four days at GNDEC have been an enlightening and transformative experience. The opportunities presented, the lessons learned, and the connections made have set a solid foundation for my journey at this esteemed institution. I'm eager to continue embracing every chance to grow, learn, and contribute to the vibrant community at GNDEC.

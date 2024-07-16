@@ -11,6 +11,10 @@ Next, the ADGP Officer shared invaluable insights about karma and the delayed re
 
 Students who interacted and spoke up received chocolates. In the end, I missed out on chocolates but gained countless lessons, some the hard way. I resolved never to miss an opportunity again.
 
+$$
+\displaystyle\sum_{k=2}^4 k^2=2^2 \times 3^2 \times 4^2 = 576
+$$
+
 ## Day 2
 
 A new opportunity arose thanks to Dr. Arvind Dhingra. He helped me shed my reserved behavior and start interacting with others. He asked for 11 boys and 11 girls to come up on stage. Determined not to miss any opportunity, I joined them. We played a team strategy game and introduced ourselves to our peers.

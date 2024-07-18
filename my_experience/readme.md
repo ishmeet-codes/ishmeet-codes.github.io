@@ -11,9 +11,7 @@ Next, the ADGP Officer shared invaluable insights about karma and the delayed re
 
 Students who interacted and spoke up received chocolates. In the end, I missed out on chocolates but gained countless lessons, some the hard way. I resolved never to miss an opportunity again.
 
-$$
-A = \displaystyle\sum_{k=2}^4 k^2=2^2 \times 3^2 \times 4^2 = 576
-$$
+
 
 ## Day 2
 
@@ -40,6 +38,28 @@ Day 4 at CodeGNE has been an exciting and rewarding experience. As a B.Tech stud
 ## Stepping into Leadership
 
 One of the most significant milestones today was being officially appointed as the first leader of my group. This role is a recognition of my skills and dedication, and it provides a valuable opportunity to develop project management and team leadership skills. Leading a group of talented peers and coordinating with the other five leaders appointed in our team has been a rewarding experience.
+
+### Day 5: Universal Human Values, Canva Insights, and CodeGNE Leadership
+
+Today marked the fifth day of my college journey, and it was packed with learning, interaction, and leadership.
+
+#### Universal Human Values: A Path to Happiness
+
+Our first lecture of the day was on Universal Human Values, a subject that delves into the essence of what it means to live a fulfilling and content life. We explored the concept of happiness and the state of contentment, discussing how these states of mind influence our everyday actions and decisions. The session was enlightening, providing a fresh perspective on how we can achieve true happiness. We also shared real-life scenarios, which made the discussion more relatable and impactful.
+
+#### Canva: Unlocking Creative Potential
+
+After a refreshing break, we engaged in a peer interaction session where our seniors introduced us to Canva. Canva is a powerful tool for creating visually appealing designs, and the seniors did an excellent job explaining its features and potential uses. From designing posters to creating social media graphics, Canva offers a versatile platform for expressing creativity. This session was particularly beneficial for those of us looking to enhance our presentation and design skills.
+
+#### CodeGNE Leadership: Empowering the Team
+
+The day concluded with a leadership activity as part of my role in CodeGNE. As a leader, I, along with other group leaders, hosted a doubt session for our group members. This session was aimed at addressing any questions or concerns the members had regarding their projects and tasks. It was a rewarding experience to assist my peers, reinforcing the collaborative spirit of CodeGNE. Helping others not only solidified my understanding of the topics but also fostered a sense of community and support within our group.
+
+### Reflections
+
+Today's experiences highlighted the importance of values, creativity, and leadership in our academic and personal growth. The lecture on Universal Human Values reminded me that happiness and contentment are pivotal in shaping our lives. The Canva session unlocked new creative avenues, and the doubt session reinforced the significance of teamwork and guidance.
+
+As I continue my journey, I am excited to apply these insights to my studies and extracurricular activities. Each day brings new opportunities to learn, grow, and contribute, and I am eager to embrace them all.
 
 ## Technical Learnings and Challenges
 
@@ -90,6 +110,7 @@ With each step, I am becoming more confident in my abilities and more enthusiast
 | Participation in club activities for enhanced learning experiences | CodeGNE Club |
 | Learning Pandoc and using it by overcoming errors and updates | CodeGNE Club |
 | Leadership Skills like explaining process to others enhanced | CodeGNE Club |
+| Canva: Unlocking Creative Potential | Causmic Club |
 
 ## Weekly Compilation
 
@@ -98,6 +119,5 @@ Coming soon..
 ---
 
 
-$\displaystyle\sum_{k=6}^5 k^2=3^2 + 4^2 + 5^2 =50$
 
 My first four days at GNDEC have been an enlightening and transformative experience. The opportunities presented, the lessons learned, and the connections made have set a solid foundation for my journey at this esteemed institution. I'm eager to continue embracing every chance to grow, learn, and contribute to the vibrant community at GNDEC.

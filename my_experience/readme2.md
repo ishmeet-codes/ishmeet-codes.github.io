@@ -2,7 +2,7 @@
 ### Workshop 3: A Deep Dive into Pandoc
 
 
-![Image](my_experience/pic2.jpeg)
+![Image](https://ishmeet-codes.github.io/my_experience/pic2.jpeg)
 
 On Day 7 of my college journey, we embarked on a mission to demystify Pandoc, a versatile document conversion tool, through our third workshop. As the leader of the presentation, I was both excited and anxious about how the day would unfold, especially with the technical hiccups we faced right at the start.
 

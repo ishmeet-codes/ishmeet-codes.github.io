@@ -2,7 +2,7 @@
 ### Workshop 3: A Deep Dive into Pandoc
 
 
-![Image](https://github.com/ishmeet-codes/ishmeet-codes.github.io/blob/f88d8543d9a5c6bd28aecf26368c4a0d74c5ffa5/Dex/pic2.jpeg)
+![Image]([https://github.com/ishmeet-codes/ishmeet-codes.github.io/blob/f88d8543d9a5c6bd28aecf26368c4a0d74c5ffa5/Dex/pic2.jpeg](https://1drv.ms/i/s!Aux3-ojFtZjaiwvwA4gvmmKjXJ1v))
 
 On Day 7 of my college journey, we embarked on a mission to demystify Pandoc, a versatile document conversion tool, through our third workshop. As the leader of the presentation, I was both excited and anxious about how the day would unfold, especially with the technical hiccups we faced right at the start.
 

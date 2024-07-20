@@ -51,6 +51,9 @@ Recently, I gained admission to Guru Nanak Dev Engineering College in the B.Tech
 
 ## Blog Posts 
 [View my Blogs](my_experience/readme.md)
+
+## Excel Certificate 
+![Image](Dex/Screenshot_2024_0718_144643.png)
 ## Contact Details
 - **Email** :- ishmeetsinghxa@gmail.com
 - **Phone Number** :- 7719450870

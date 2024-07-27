@@ -3,7 +3,7 @@
 # Day 1
 My first day at GNDEC started with all the CSE and IT students assembling in the auditorium. The atmosphere was calm, and the stage was beautifully decorated. After waiting for about 30 minutes, the host invited the first speaker, Harpreet Mam. Her lecture made us feel like we were already a part of the GNDEC family.
 
-Our Principal Sir then motivated us to make the best use of this platform. The NSET Director introduced us to the illustrious history of this institution, emphasizing its 100 years of shaping brilliant minds. He highlighted the first 36 years, which were dedicated to establishing the institute.
+Our Principal Sir then motivated us to make the best use of this platform. The NSET Director introduced us to the illustrious history of this institution, emphasizing its 68 years of shaping brilliant minds. He highlighted the first 36 years, which were dedicated to establishing the institute.
 
 I learned an essential lesson: “Seize the opportunity; don’t wait for it to come to you.”
 
@@ -276,7 +276,7 @@ Stay tuned for more updates and insights from our induction program journey!
 Today marked another engaging day in our induction program, blending rigorous academic work with exciting new explorations in technology.
 
 ## Morning: Deep Dive into Mathematics
-The day kicked off with an intensive math lecture from 9 AM to 12:30 PM. The session was a deep dive into [insert specific math topics], providing a solid foundation and a few challenging problems to tackle. It was a good mix of theory and practical applications, and I felt more confident in my understanding of the material.
+The day kicked off with an intensive math lecture from 9 AM to 12:30 PM. The session was a deep dive into Maths, providing a solid foundation and a few challenging problems to tackle. It was a good mix of theory and practical applications, and I felt more confident in my understanding of the material.
 
 ## Afternoon: The Math Test
 After a brief lunch break, we returned for a math test from 1:30 PM to 3 PM. The test covered everything we've learned so far, and it was a great opportunity to assess our progress. While some questions were challenging, I felt well-prepared thanks to the comprehensive lectures and practice problems we've been working on.
@@ -299,7 +299,7 @@ After the time was up, all participants and judges reviewed the outputs and deci
 
 Following the hackathon, we gathered in the auditorium for a cultural competition. The first event was a singing competition, which everyone enjoyed. It was followed by a dance competition, which was equally entertaining and well-received by the audience. There was a short break before the prize ceremony.
 
-During the prize ceremony, Dr. Inderpreet Singh, Director of Nankana Sahib Education Trust (NSET), shared valuable insights and words of encouragement. Principal Dr. Sehijpal Singh and the HOD of the IT department, Dr. K.S. Maan, also addressed the gathering and distributed prizes to all the winners.
+During the prize ceremony, Dr. Inderpal Singh, Director of Nankana Sahib Education Trust (NSET), shared valuable insights and words of encouragement. Principal Dr. Sehijpal Singh and the HOD of the IT department, Dr. K.S. Maan, also addressed the gathering and distributed prizes to all the winners.
 
 The day was a perfect blend of competition, creativity, and celebration, marking a memorable end to our induction program. Reflecting on these past 13 days, I feel grateful for the experiences and the bonds formed with fellow students. The program has provided a solid foundation for our future endeavors at the college, and I look forward to the challenges and opportunities that lie ahead.
 

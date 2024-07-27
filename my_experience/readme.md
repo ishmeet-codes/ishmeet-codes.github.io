@@ -149,7 +149,7 @@ Day 6 at CodeGNE has been transformative. It has provided me with a platform to 
 
 With each step, I am becoming more confident in my abilities and more enthusiastic about the endless possibilities that lie ahead in the field of computer science and engineering.
 
-## A Day of Inspiration and Learning: Day 7 of the Induction Program
+##  Day 7 of the Induction Program : A Day of Inspiration and Learning
 
 ### A Journey of Inspiration with Prof. Harpal Singh Pannu
 

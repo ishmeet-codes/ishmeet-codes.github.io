@@ -307,7 +307,7 @@ The day was a perfect blend of competition, creativity, and celebration, marking
 
 # Highlights of Guru Nanak Dev Engineering College (GNDEC)
 
-- **Historical Legacy**: GNDEC boasts a rich history of over 100 years, dedicated to shaping brilliant minds and emphasizing inclusive education, especially for students from rural areas.
+- **Historical Legacy**: GNDEC boasts a rich history of over 68 years, dedicated to shaping brilliant minds and emphasizing inclusive education, especially for students from rural areas.
 - **Focus on Values and Ethics**: The college integrates Universal Human Values (UHV) into its curriculum, emphasizing the importance of happiness, contentment, and ethical living.
 - **Technological Advancement**: GNDEC provides hands-on learning experiences with cutting-edge technologies, including GitHub, Pandoc, and 3D design tools, facilitated by experienced faculty.
 - **Extracurricular Opportunities**: The college offers a range of clubs and societies like CodeGNE, NSS, and NCC, promoting leadership, community service, and overall personality development.

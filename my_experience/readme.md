@@ -216,6 +216,8 @@ Karmandeep Kaur started with an introduction to Pandoc, explaining its significa
 
 The audience's engagement was one of the workshop's highlights. They were attentive, participated in hands-on activities, and asked insightful questions, making the session lively and interactive.
 
+[experience blog](https://ishmeet-codes.github.io/my_experience/readme2.html)
+
 #### Reflection
 
 Despite the technical challenges, the workshop was a success, thanks to the teamwork and resilience of everyone involved. This experience underscored the importance of adaptability, preparation, and teamwork. It was a reminder that with determination and collaboration, we can overcome any obstacle.

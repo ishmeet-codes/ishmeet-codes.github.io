@@ -280,7 +280,18 @@ Today was a perfect blend of academia and hands-on learning. The math lecture an
 
 Stay tuned for more updates as our induction program continues!
 
-# finish
+# The Final Day (13) of Induction: A Hackathon and Cultural Extravaganza
+
+Today was the last and 13th day of our induction program at Guru Nanak Dev Engineering College. The day began with a thrilling hackathon named "Promising Hackers," organized by Dr. H.S. Rai and Dr. Randhir Singh. I arrived a little early, and soon the competition started at 9:22 AM. We were given one hour to create a 3D logo of our college using any open-source software. Additionally, we had to report our progress to the judges every ten minutes.
+
+After the time was up, all participants and judges reviewed the outputs and decided on the winners. I'm proud to share that I secured the 2nd position in the hackathon! It was an exciting and challenging experience that tested our creativity and technical skills.
+
+Following the hackathon, we gathered in the auditorium for a cultural competition. The first event was a singing competition, which everyone enjoyed. It was followed by a dance competition, which was equally entertaining and well-received by the audience. There was a short break before the prize ceremony.
+
+During the prize ceremony, Dr. Inderpreet Singh, Director of Nankana Sahib Education Trust (NSET), shared valuable insights and words of encouragement. Principal Dr. Sehijpal Singh and the HOD of the IT department, Dr. K.S. Maan, also addressed the gathering and distributed prizes to all the winners.
+
+The day was a perfect blend of competition, creativity, and celebration, marking a memorable end to our induction program. Reflecting on these past 13 days, I feel grateful for the experiences and the bonds formed with fellow students. The program has provided a solid foundation for our future endeavors at the college, and I look forward to the challenges and opportunities that lie ahead.
+
 
 
 ## Highlights of GNDEC (GNE)

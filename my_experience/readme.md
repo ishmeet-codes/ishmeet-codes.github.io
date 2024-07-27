@@ -21,7 +21,7 @@ Unexpectedly, Dr. H.S. Rai sought 10 students to work with him – not for him. 
 
 # Day 3  Universal Human Values, Canva Insights, and CodeGNE Leadership
 
-Today marked the sixth day of my college journey, and it was packed with learning, interaction, and leadership.
+Today marked the third day of my college journey, and it was packed with learning, interaction, and leadership.
 
 #### Universal Human Values: A Path to Happiness
 

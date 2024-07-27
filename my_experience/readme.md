@@ -204,7 +204,7 @@ Later, IT sections A and B gathered in the seminar hall for a quiz organized by 
 
 ## Workshop 3: A Deep Dive into Pandoc
 
-![alt text](https://github.com/ishmeet-codes/ishmeet-codes.github.io/blob/886175873afa07b19f4514385da151149680d50f/Dex/pic_workshop.jpeg)
+![alt text](https://github.com/ishmeet-codes/ishmeet-codes.github.io/blob/main/Dex/pic_workshop.jpeg)
 On Day 8 of our college journey, we held our third workshop to explore Pandoc, a versatile document conversion tool. Despite initial challenges like a lack of screen sharing converters and uncooperative WiFi, we pressed on with determination.
 
 #### The Presentation

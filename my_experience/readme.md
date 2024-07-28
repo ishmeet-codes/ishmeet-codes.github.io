@@ -226,7 +226,7 @@ I'm grateful for the opportunity to lead such a dedicated team and share knowled
 
 # Day 9 of Induction: Inspirational Talks and Self-Reflection
 
-Today marked the 9th day of our induction program at Guru Nanak Dev Engineering College, and it began with an inspiring session in the auditorium. We had the honor of being addressed by the retired principal of our college, who shared numerous stories of his former students, including Karamveer Bajwa, the head of Google in seven countries, among others. His anecdotes were not only motivational but also offered valuable life lessons.
+Today marked the 9th day of our induction program at Guru Nanak Dev Engineering College, and it began with an inspiring session in the auditorium. We had the honor of being addressed by the retired principal Dr. Surinderbir Singh Sarna Ji of our college, who shared numerous stories of his former students, including Karamveer Bajwa, the head of Google in seven countries, among others. His anecdotes were not only motivational but also offered valuable life lessons.
 
 He encouraged us to relax and reflect on how we want to spend our lives, emphasizing the importance of self-awareness and goal-setting. As part of this introspective exercise, he asked us to write down our details, followed by four good traits, four bad traits, four things we aim to learn from college, four expectations we have from college, and four areas we wish to improve upon.
 

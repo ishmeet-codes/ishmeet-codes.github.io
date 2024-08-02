@@ -1,7 +1,7 @@
 const cacheName = 'markdown-pwa-cache-v1';
 const resourcesToCache = [
   '/',
-  '/index.md',
+  '/README.md',
   '/script.js',
   '/assets/icons/final-imag.jpg'
 ];

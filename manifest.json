@@ -1,8 +1,8 @@
 {
-    "name": "Markdown PWA",
-    "short_name": "Markdown",
+    "name": "ishmeet-codes",
+    "short_name": "Ishmeet",
     "description": "A Progressive Web App for viewing Markdown files",
-    "start_url": "/",
+    "start_url": "/README.md",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#317EFB",

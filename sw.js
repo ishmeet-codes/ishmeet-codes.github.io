@@ -3,7 +3,7 @@ const resourcesToCache = [
   '/',
   'index.html',
   'script.js',
-  'Dex\final-image (1).jpg'
+  'Dex/img1.jpg'
 ];
 
 self.addEventListener('install', event => {

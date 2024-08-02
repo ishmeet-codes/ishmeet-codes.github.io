@@ -1,11 +1,10 @@
 const cacheName = 'ishmeet-codes-cache-v1';
 const resourcesToCache = [
   '/',
-  '/index.html',
+  'ishmeet-codes.github.io/index.html',
   '/path/to/your/styles.css',
-  '/path/to/your/script.js',
-  '/path/to/icon-192x192.png',
-  '/path/to/icon-512x512.png'
+  'ishmeet-codes.github.io/script.js',
+  '/path/to/icon-192x192.png'
 ];
 
 self.addEventListener('install', event => {

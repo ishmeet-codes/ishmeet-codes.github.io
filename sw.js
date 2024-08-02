@@ -1,9 +1,9 @@
 const cacheName = 'ishmeet-codes-cache-v1';
 const resourcesToCache = [
   '/',
-  '/ishmeet-codes.github.io/index.html',
-  '/ishmeet-codes.github.io/script.js',
-  '/ishmeet-codes.github.io/Dex/final-image (1).jpg'
+  'ishmeet-codes.github.io/index.html',
+  'ishmeet-codes.github.io/script.js',
+  'ishmeet-codes.github.io/Dex/final-image (1).jpg'
 ];
 
 self.addEventListener('install', event => {
